@@ -1,0 +1,41 @@
+.container {
+    margin: 0 auto;
+    width: 768px;
+}
+
+.green {
+    color: #99cc00;
+    text-decoration: underline;
+}
+
+.text {
+    font-size: 18px;
+    color: #466;
+    font-weight: bold;
+}
+
+.input-container {
+    position: relative;
+}
+
+input.user-input {
+    color: #555;
+}
+
+.custom-tooltip{
+    top: 6px;
+    left: -75px;
+}
+
+.visible {
+    opacity: 1;
+    transition: 200ms;
+}
+
+.error {
+    background: #d08383;
+}
+
+.text {
+    background-color: lightgrey;
+}
